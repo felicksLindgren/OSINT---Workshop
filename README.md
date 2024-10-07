@@ -19,3 +19,13 @@ Vad är sista ordet i boken som Chris läser?
 ## Fråga 4
 
 Vilken sida har han uppe på högersidan?
+
+## Fördjupning
+
+Vid tid och intresse finns det fler uppgifter att lösa.
+Dessa uppgifter är mer avancerade och kräver mer tid och kunskap.
+
+Skapa ett konto på [TryHackMe](https://tryhackme.com/) och lösa följande rum:
+
+- [OhSINT](https://tryhackme.com/r/room/ohsint)
+- [Sakura Room](https://tryhackme.com/r/room/sakura)
